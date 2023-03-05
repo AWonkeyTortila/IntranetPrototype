@@ -1,0 +1,17 @@
+<!-- WWW, MMM Xth, YYYY. -->
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-us">
+    <head>
+        <link rel="shortcut icon" type="image/x-icon" href="MYPNG.PNG">
+        <link type="text/css" rel="stylesheet" href="MYCSS.CSS">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>YOUR TITLE</title>
+    </head>
+    <body>
+        <h1>WELCOME TO MY WEBSITE!</h1>
+    </body>
+    <footer>
+        <a href="../client/main.html">home page</a>
+    </footer>
+</html>
