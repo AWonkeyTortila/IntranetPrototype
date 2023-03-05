@@ -1,0 +1,34 @@
+html {
+    background-color: #d5e5eb;
+}
+
+h1 {
+    font-family: Arial;
+    color: black;
+}
+
+p {
+    font-family: Arial;
+    color: black;
+}
+
+nav {
+    background-color: rgb(145, 34, 34);
+    width: 80%;
+    margin: auto;
+    padding: 2px;
+}
+
+.div {
+    width: 80%;
+    margin: auto;
+    border: 2px solid black;
+}
+
+.white {
+    color: white;
+}
+
+.img-1 {
+    border: 2px solid black;
+}
